@@ -1,0 +1,3 @@
+Bu klasör farklı veriler üzerinde numpy-pandas kütüphanelerini kullanarak çalışmaya olanak sunan 
+eğitim için hazırlanmış https://github.com/guipsamora/pandas_exercises/tree/master reposu için oluşturduğum
+cevapları içermektedir.
